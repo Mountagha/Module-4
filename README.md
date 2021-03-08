@@ -11,7 +11,7 @@ The project is organized into 5 modules. Each module is build upon the precedent
 * [Module-3](https://github.com/Mountagha/Module-3)
 * [Module-4](https://github.com/Mountagha/Module-4)
 
-This is [Module-4](https://github.com/Mountagha/Module-3) this module takes advantage of the fully working deep learning build through [Module-0](https://github.com/Mountagha/Module-0) to [Module-3](https://github.com/Mountagha/Module-3) and build an image recognition system.
+This is [Module-4](https://github.com/Mountagha/Module-3) and it takes advantage of the fully working deep learning library build through [Module-0](https://github.com/Mountagha/Module-0) to [Module-3](https://github.com/Mountagha/Module-3) and build an image recognition system.
 
 ### Notes
 
